@@ -109,7 +109,7 @@ public class AStar {
 		int dxny[] = getCoordinates(destination, row, col);
 		int x=dxny[0];
 		int y=dxny[1];
-		System.out.println("col "+col);
+	//	System.out.println("col "+col);
 		for(int i=0;i<row;i++){
 			for(int j=0; j<col ; j++){
 				c[i][j].h = Math.abs(i-x)+Math.abs(j-y);
