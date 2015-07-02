@@ -5,7 +5,7 @@ Sample Input:                             <br>
 Enter the dimensions:                     <br>
 3 4                                       <br>
 Enter source and destination:             <br>
-2                                         <br>
+2 12                                      <br>
 Enter blocked cells separated by space:   <br>
 11                                        <br>
 
